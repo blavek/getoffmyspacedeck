@@ -17,7 +17,7 @@ public class Ship1 : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		//Sets business person's final destination
+		//Sets the ship's path
 		target1 = GameObject.Find ("ShipMove1");
 		target2 = GameObject.Find ("ShipMove2");
 		target3 = GameObject.Find ("ShipMove3");

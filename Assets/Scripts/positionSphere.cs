@@ -10,6 +10,7 @@ public class positionSphere : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		//comment here
 		transform.LookAt(Camera.main.transform.position);
 		transform.forward = -transform.forward;
 	}

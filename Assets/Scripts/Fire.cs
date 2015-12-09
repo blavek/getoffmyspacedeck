@@ -4,6 +4,7 @@ using System.Collections;
 //#pragma strict
 //Set up variables to get specified in Unity
 public class Fire : MonoBehaviour {
+	//Sets up values for where the player is shooting, what they're shooting, the force of the shot, and how uch time it took
 	public Rigidbody Laser; //:Rigidbody;
 	public Rigidbody Missile; //:Rigidbody;
 	public float shootForce1; //:float;
@@ -13,15 +14,17 @@ public class Fire : MonoBehaviour {
 	private float timeElapse = 1;
 
 	void Start() {
+		//Sets the shoot position at Target
 			shootPosition = GameObject.FindGameObjectWithTag("Target").transform;
 	}
 
 	void FixedUpdate()
 	{
+		//Deterines how much time has passed
 		timeElapse = timeElapse - Time.deltaTime;
 	//	Debug.Log(time);
-		//Creates a projectile whenever the player presses the left mouse button
 	//		Debug.Log(shootPosition.transform.position.x);
+		//Shoots laser from the starting position and destroys everything, but the shield
 		if(timeElapse <= 0)
 		{
 			//Fires Laser

@@ -14,6 +14,7 @@ public class SaucerFire : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		//saucer fires every 5 seconds
 		if (Time.fixedTime % 5 == 0) {
 			Instantiate(projectile,node[barrelID].transform.position,node[barrelID].transform.rotation);
 			barrelID++;

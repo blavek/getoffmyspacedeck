@@ -3,7 +3,7 @@ using System.Collections;
 
 public class torpedo : MonoBehaviour {
 
-	// Use this for initialization
+	//makes the torpedo look at camera
 	void Start () {
 		transform.LookAt(Camera.main.transform.position);
 	}
