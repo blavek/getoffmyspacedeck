@@ -1,0 +1,188 @@
+Initialize engine version: 4.6.9f1 (44099fd26189)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M       (ID=0x1617)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\OpenNI.Net.dll (this message is harmless)
+Loading C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\OpenNI.Net.dll into Unity Child Domain
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\ZDK.dll (this message is harmless)
+Loading C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\ZDK.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1771)
+
+Platform assembly: C:\Users\Ken\Documents\getoffmyspacedeck\build_Data\Managed\System.dll (this message is harmless)
+Trying to open Kinect sensor using MS Kinect SDK
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Note: Microsoft's Kinect SDK can only be used in one process at a time. Please quit any other processes using the Microsoft Kinect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+This also means you must quit the Unity Editor before using any compiled product
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Error initing Kinect SDK: 2197880852
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening Kinect SDK sensor (if you intend to use the Microsoft Kinect SDK, please unplug the sensor, restart Unity and try again)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Trying to open sensor using OpenNI
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+One or more of the following nodes could not be enumerated:
+
+Device: PrimeSense/SensorKinect/5.1.2.1: The device is not connected!
+Device: PrimeSense/SensorV2/5.1.2.1: The device is not connected!
+Device: PrimeSense/SensorKinect/5.1.2.1: The device is not connected!
+Device: PrimeSense/SensorV2/5.1.2.1: The device is not connected!
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening sensor using OpenNI version 1, attempting to open the sensor with OpenNI 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libNiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/NiTE2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libNiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libNiTE2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libNiTE2.dll
+ZigInputOpenNI2 Init
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/OpenNI2
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/.\libOpenNI2.dll
+Fallback handler could not load library C:/Users/Ken/Documents/getoffmyspacedeck/build_Data/Mono/libOpenNI2.dll
+Exception while attempting to start reader:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+OpenNI2.dll
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+failed opening sensor using OpenNI version 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Failed to load driver and middleware, review warnings above for specific exception messages from middleware
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

@@ -20,7 +20,7 @@ public class ShieldCollision : MonoBehaviour {
 	void OnCollisionEnter(Collision col)
 	{
 		if (col.gameObject.tag == "Projectile") {
-			Instantiate (shield, node.transform.position, node.transform.rotation);
+			Instantiate (shield, col.transform.position, col.transform.rotation);
 			shieldStrength--;
 			Debug.Log(shieldStrength);
 		}
